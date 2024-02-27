@@ -3,9 +3,9 @@
 This repository contains code and resources for an Automatic Number Plate Recognition (ANPR) system and a Parking Management System.
 
 ## Team Members
-- Naveen KM
-- Gokul S
-- Guruakash P
+- [Naveen KM](https://github.com/Naveen2701)
+- [Gokul S](https://github.com/gokuls007)
+- [Guruakash P](https://github.com/guruakash-7788)
 
 ## Project Overview
 
