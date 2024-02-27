@@ -6,6 +6,7 @@ This repository contains code and resources for an Automatic Number Plate Recogn
 - [Naveen KM](https://github.com/Naveen2701)
 - [Gokul S](https://github.com/gokuls007)
 - [Guruakash P](https://github.com/guruakash-7788)
+- [Merin T](https://github.com/20BTRCL063)
 
 ## Project Overview
 
