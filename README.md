@@ -1,6 +1,6 @@
 # ANPR and Parking Management System
 
-This repository contains code and resources for an Automatic Number Plate Recognition (ANPR) system and a Parking Management System. The ANPR system is developed by Naveen KM, while the Parking Management System is a WordPress website developed by Gokul S. Additionally, there is a parking space monitoring system using computer vision, developed by Guruakash.
+This repository contains code and resources for an Automatic Number Plate Recognition (ANPR) system and a Parking Management System.
 
 ## Team Members
 - Naveen KM
