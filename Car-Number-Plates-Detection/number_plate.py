@@ -3,7 +3,7 @@ import cv2
 from datetime import datetime
 from datetime import date
 import mysql.connector as sql
-harcascade = "model/haarcascade_russian_plate_number.xml"
+harcascade = "haarcascade_russian_plate_number.xml"
 f_name = ""
 
 
